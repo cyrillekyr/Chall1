@@ -45,7 +45,7 @@ body {
 <body>
 
 <div class="container">
-    <p class="message emphasis">Comme une étoile parmi les constellations, ton nom brille dans le ciel de notre connexion. Neuf lettres, une symphonie de sens, un fil conducteur vers notre amour. Cherche la magie de l'underscore, le pont qui nous unit dans un doux mystère. Avec chaque frappe de touche, nos cœurs s'alignent, dans une danse éternelle.</p>
+    <p class="message emphasis">Comme une étoile parmi les constellations, ton nom brille dans le ciel de notre connexion. Neuf caractères, une symphonie de sens, un fil conducteur vers notre amour. Cherche la magie de l'underscore, le pont qui nous unit dans un doux mystère. Avec chaque frappe de touche, nos cœurs s'alignent, dans une danse éternelle.</p>
     <p class="message">Que ton nom soit une étoile dans notre ciel partagé, illuminant le chemin vers notre bonheur mutuel.</p>
     <p class="message heart">♥️ Joyeuse Saint-Valentin ! ♥️</p>
 </div>
